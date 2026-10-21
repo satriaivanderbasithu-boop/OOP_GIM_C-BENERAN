@@ -1,0 +1,14 @@
+D:\satria\berbagai tugas aud\c#\GameKeyboard\bin\Debug\net10.0\GameKeyboard.exe
+D:\satria\berbagai tugas aud\c#\GameKeyboard\bin\Debug\net10.0\GameKeyboard.deps.json
+D:\satria\berbagai tugas aud\c#\GameKeyboard\bin\Debug\net10.0\GameKeyboard.runtimeconfig.json
+D:\satria\berbagai tugas aud\c#\GameKeyboard\bin\Debug\net10.0\GameKeyboard.dll
+D:\satria\berbagai tugas aud\c#\GameKeyboard\bin\Debug\net10.0\GameKeyboard.pdb
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\GameKeyboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\GameKeyboard.AssemblyInfoInputs.cache
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\GameKeyboard.AssemblyInfo.cs
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\GameKeyboard.csproj.CoreCompileInputs.cache
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\GameKeyboard.dll
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\refint\GameKeyboard.dll
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\GameKeyboard.pdb
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\GameKeyboard.genruntimeconfig.cache
+D:\satria\berbagai tugas aud\c#\GameKeyboard\obj\Debug\net10.0\ref\GameKeyboard.dll
