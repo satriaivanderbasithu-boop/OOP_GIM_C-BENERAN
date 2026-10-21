@@ -118,4 +118,4 @@ namespace KerangkaGame
             player1.getData();
         }
     }
-}
+}//ceneh
